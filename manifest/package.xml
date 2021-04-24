@@ -32,5 +32,14 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+        <members>LogEvent__c</members>
+        <members>Log__e</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Logger</members>
+        <name>CustomApplication</name>
+    </types>
     <version>51.0</version>
 </Package>
